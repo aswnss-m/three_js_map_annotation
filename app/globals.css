@@ -16,5 +16,5 @@
 }
 
 body {
-  @apply bg-neutral-100 text-neutral-900
+  @apply bg-neutral-100 text-neutral-900 min-h-screen
 }
